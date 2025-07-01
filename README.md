@@ -1,10 +1,13 @@
-# 👋 Hi, I'm Manas Goyal!
+<h1 align="center"> 👋 Hi, I'm Manas! </h1>
 
-I’m a high school junior passionate about **computer science**, **AI/ML**, and **game development**. I love turning ideas into projects, learning new tech, and challenging myself with hands-on coding.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Scientist+%F0%9F%92%BB;Financial+Analyst+%F0%9F%92%B0;Researcher+%E2%9C%8A;Hackathon+Organizer+%F0%9F%9A%80;Future+Quant+%F0%9F%93%88;Problem+Solver+%F0%9F%93%9A&center=true&width=500&height=45" />
+</p>
 
 ---
 
 ## 🚀 About Me
+I’m a high school junior passionate about **computer science**, **AI/ML**, and **game development**. I love turning ideas into projects, learning new tech, and challenging myself with hands-on coding.
 
 - Building games with **Godot**, **Pygame**, and **Java Swing**.  
 - Exploring machine learning through **Kaggle** competitions and courses.  
