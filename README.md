@@ -9,10 +9,10 @@
 ## 🚀 About Me
 I’m a high school junior passionate about **computer science**, **AI/ML**, and **game development**. I love turning ideas into projects, learning new tech, and challenging myself with hands-on coding.
 
-- Building games with **Godot**, **Pygame**, and **Java Swing**.  
 - Exploring machine learning through **Kaggle** competitions and courses.  
-- Experimenting with **Arduino programming** and **robotics**, working with servos, motors, sensors, and hardware.  
 - Co-founder & lead developer at a student-run web startup building real websites.  
+- Building games with **Godot**, **Pygame**, and **Java Swing**.  
+- Experimenting with **Arduino programming** and **robotics**, working with servos, motors, sensors, and hardware.  
 - President of my high school programming club — organizing hackathons & mentoring peers.  
 - Lifelong learner: Udemy courses, OpenCourseWare, YouTube tutorials — you name it!
 
