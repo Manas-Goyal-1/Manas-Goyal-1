@@ -9,8 +9,7 @@
 ## 🚀 About Me
 I’m a high school junior passionate about **computer science**, **AI/ML**, and **game development**. I love turning ideas into projects, learning new tech, and challenging myself with hands-on coding.
 
-- Exploring machine learning through **Kaggle** competitions and courses.  
-- Co-founder & lead developer at a student-run web startup building real websites.  
+- Exploring machine learning through **Kaggle** competitions and courses.
 - Building games with **Godot**, **Pygame**, and **Java Swing**.  
 - Experimenting with **Arduino programming** and **robotics**, working with servos, motors, sensors, and hardware.  
 - President of my high school programming club — organizing hackathons & mentoring peers.  
@@ -21,8 +20,7 @@ I’m a high school junior passionate about **computer science**, **AI/ML**, and
 ## 💻 What I’m Working On
 
 - **The Last Five** — a 2D roguelike adventure game made in Godot (GDScript).  
-- ML projects on Kaggle: regression, classification, feature engineering.  
-- Building frontend and backend workflows for my startup’s upcoming client projects.
+- ML projects on Kaggle: regression, classification, feature engineering.
 
 ---
 
