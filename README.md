@@ -63,4 +63,4 @@ I’m a high school junior passionate about **computer science**, **AI/ML**, and
 
 ---
 
-Thanks for stopping by — feel free to check out my repos and say hi!
+Thanks for stopping by. Feel free to check out my repos and say hi!
