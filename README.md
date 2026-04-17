@@ -1,7 +1,7 @@
 <h1 align="center"> 👋 Hi, I'm Manas! </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Scientist+%F0%9F%92%BB;Financial+Analyst+%F0%9F%92%B0;Researcher+%E2%9C%8A;Hackathon+Organizer+%F0%9F%9A%80;Future+Quant+%F0%9F%93%88;Problem+Solver+%F0%9F%93%9A&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Scientist+%F0%9F%92%BB;Data+Analyst+%F0%9F%92%B0;Researcher+%E2%9C%8A;Problem+Solver+%F0%9F%93%9A&center=true&width=500&height=45" />
 </p>
 
 ---
